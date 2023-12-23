@@ -1,2 +1,5 @@
 .vs/
 *.pch
+Intermediate/
+*.log
+Saved/
