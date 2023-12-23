@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\trabajo\\unreal\\zombietrain\\source\\zombietrain\\zombietrain.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\trabajo\\unreal\\zombietrain\\intermediate\\build\\win64\\x64\\zombietraineditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\trabajo\\unreal\\zombietrain\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\zombietrain\\definitions.zombietrain.h",
+            "d:\\trabajo\\unreal\\zombietrain\\source\\zombietrain\\zombietrain.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
