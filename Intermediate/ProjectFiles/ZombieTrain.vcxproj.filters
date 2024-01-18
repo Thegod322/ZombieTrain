@@ -11,6 +11,9 @@
     <None Include="..\..\Source\ZombieTrainEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -28,6 +31,54 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions">
+      <UniqueIdentifier>{B376FBB0-9029-37B4-9E5C-F55FC20DD6CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions\Source">
+      <UniqueIdentifier>{CAE7E189-351A-3AEF-AA65-9181E027D3DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions">
+      <UniqueIdentifier>{A1318B81-C725-3B17-85AD-D8AD905147BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private">
+      <UniqueIdentifier>{AEFBA6C3-EAEC-3E6A-BF0E-6FC82FC81BDA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessions.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public">
+      <UniqueIdentifier>{B8A815AB-71EA-30D3-AAE7-E5C007BDC21C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\Menu.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessions.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessionsSubsystem.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MultiplayerSessions\MultiplayerSessions.uplugin">
+      <Filter>Plugins\MultiplayerSessions</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessions\Resources">
+      <UniqueIdentifier>{309C2CD4-0086-329B-99DB-BDFA765BCE16}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessions\Resources\Icon128.png">
+      <Filter>Plugins\MultiplayerSessions\Resources</Filter>
     </None>
     <Filter Include="Source\ZombieTrain">
       <UniqueIdentifier>{F740E6E0-E8FB-3E4A-9C2C-E562516CEDB4}</UniqueIdentifier>

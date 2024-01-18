@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"D:\\Trabajo\\UNREAL\\ZombieTrain\\Source\\ZombieTrain\\ZombieTrain.Build.cs",
+		"D:\\Trabajo\\UNREAL\\ZombieTrain\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
 		"D:\\Trabajo\\UNREAL\\ZombieTrain\\Source\\ZombieTrain.Target.cs",
 		"D:\\Trabajo\\UNREAL\\ZombieTrain\\Source\\ZombieTrainEditor.Target.cs"
 	],
